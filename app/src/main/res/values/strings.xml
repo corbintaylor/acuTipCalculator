@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="prompt_purchase_cost">Please Enter Purchase Cost:</string>
+    <string name="prompt_ratings">Rate how well the following characteristics were shown:</string>
+    <string name="prompt_starting_tip">Starting Tip Percent:</string>
+    <string name="enter_purchase_cost">Enter Purchase Size</string>
+    <string name="enter_percent">Enter Whole Percent</string>
+</resources>
