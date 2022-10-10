@@ -1,8 +1,17 @@
 <resources>
-    <string name="app_name">TipCalculator</string>
+    <string name="app_name">AcuTip</string>
     <string name="prompt_purchase_cost">Please Enter Purchase Cost:</string>
     <string name="prompt_ratings">Rate how well the following characteristics were shown:</string>
     <string name="prompt_starting_tip">Starting Tip Percent:</string>
     <string name="enter_purchase_cost">Enter Purchase Size</string>
     <string name="enter_percent">Enter Whole Percent</string>
+    <string name="timely_manner">Timely Manner</string>
+    <string name="order_accuracy">Order Accuracy</string>
+    <string name="awareness_of_customer">Awareness of Customer></string>
+    <string name="occasional_checkup">Occasional Checkup</string>
+    <string name="willingness_to_help">Willingness to Help</string>
+    <string name="reasonable_suggestions">Reasonable Order Suggestions</string>
+    <string name="knowledgeable_abt_menu">Knowledgeable About Menu Items</string>
+    <string name="resolves_quick">Resolves Any Issues Efficiently</string>
+    <string name="pos_attitude">Positive Attitude</string>
 </resources>
